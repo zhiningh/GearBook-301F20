@@ -10,9 +10,9 @@ ccid: zhining2
 
 
 App name:
-
 zhining2-GearBook
 
+-----
 
 Functionality:
 
@@ -54,6 +54,7 @@ Add/View/Edit Page:
 	Maker: Any type of input with up to 20 characters (This field is required)
 	Comment: Any type of input with up to 20 characters (This field is required)
 
+-----
 
 code cited: Details and license about the citation is in the code comment block
 
