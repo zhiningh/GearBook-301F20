@@ -1,30 +1,34 @@
 # GearBook-301
 
 CMPUT 301 Fall 2020
+
 ASSIGNMENT 1
+
 Zhining He
+
 ccid: zhining2
 
 
 App name:
+
 zhining2-GearBook
 
 
 Functionality:
+
 This app allows user to keep track of their own gears. It allows the user to add a gear, view and edit the information of a current gear. It saves user input as the information of gear, and displays them in a list. The text box will assists the user in proper data entry. Input hint will display in the text-box. Error message will display at the right side of the text-box if the input is invalid.
 
 
-Code Folder:
-Java code of the app.
-	4 Java files: MainActivity.java, UserInputPage.java, Gear.java, Adapter.java
-	3 xml files: activity_main.xml, activity_user_input_page.xml, content.xml
+Code Folder: Java code of the app.
+* 4 Java files: MainActivity.java, UserInputPage.java, Gear.java, Adapter.java
+* 3 xml files: activity_main.xml, activity_user_input_page.xml, content.xml
 
 
 Doc Folder: UML diagram of the app.
-	zhining2-GearBook-uml.png
+* zhining2-GearBook-uml.png
 
 Video Folder: A video show the demo of the app.
-	zhining2-GearBook-demo.mp4
+* zhining2-GearBook-demo.mp4
 
 -----
 
@@ -52,6 +56,7 @@ Add/View/Edit Page:
 
 
 code cited: Details and license about the citation is in the code comment block
+
 	CMPUT 301 fall 2020 lab 3
 	https://www.tutlane.com/tutorial/android/android-datepicker-with-examples
 	https://developer.android.com/training/basics/intents/result
