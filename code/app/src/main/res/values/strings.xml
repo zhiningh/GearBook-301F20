@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">zhining2-GearBook</string>
+    <!-- Customize button -->
+    <string name="button_add">ADD</string>
+    <string name="button_edit">VIEW/EDIT</string>
+    <string name="button_delete">DELETE</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">CANCEL</string>
+    <!-- Customize list title -->
+    <string name="title_date">DATE</string>
+    <string name="title_des">DESCRIPTION</string>
+    <string name="title_price">$ PRICE</string>
+    <!-- Customize text view -->
+    <string name="text_date">DATE *</string>
+    <string name="text_des">DESCRIPTION *</string>
+    <string name="text_price">PRICE *</string>
+    <string name="text_maker">MAKER *</string>
+    <string name="text_comment">COMMENT</string>
+    <!-- Customize text box -->
+    <string name="button_pick_date">PICK DATE</string>
+    <string name="edit_date">yyyy-mm-dd</string>
+    <string name="edit_maker">Enter a maker (Maximum 20 characters)</string>
+    <string name="edit_des">Enter a description (Maximum 40 characters)</string>
+    <string name="edit_price">$ 0.00</string>
+    <string name="edit_comment">Enter a comment (Maximum 20 characters)</string>
+</resources>

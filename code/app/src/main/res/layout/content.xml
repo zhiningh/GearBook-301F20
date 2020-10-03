@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/date_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="100sp"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="10dp"
+        android:text="DATE" />
+
+    <TextView
+        android:id="@+id/des_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="200sp"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="10dp"
+        android:text="DESCRIPTION" />
+
+    <TextView
+        android:id="@+id/price_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="100sp"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="10dp"
+        android:text="PRICE" />
+
+<!--    optional display-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/maker_text"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:width="80dp"-->
+<!--        android:paddingHorizontal="10dp"-->
+<!--        android:paddingVertical="10dp"-->
+<!--        android:text="MAKER" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/comment_text"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:paddingVertical="10dp"-->
+<!--        android:paddingHorizontal="10dp"-->
+<!--        android:text="COMMENT" />-->
+
+</LinearLayout>
